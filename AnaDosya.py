@@ -25,7 +25,7 @@ from Hanson import Ui_MainWindow
 # pip install wikipedia
 # pip install PyQtWebEngine
 # pip install pytube
-
+# pip install sounddevice
 
 
 
