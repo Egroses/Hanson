@@ -1,0 +1,2 @@
+# Hanson
+I developed an application called Hanson. Hanson(Python, OpenCV, Pyqt5, Thread) is able to speak, can analyze the volume of the sound, and turn it into text. It can read QR codes on the PC or scan them via camera. It can open a YouTube video with voice command, opens the app, and can download the video in 720p. It has a note-keeping system. In addition to all of these, it has mini-games inside that I developed. 
